@@ -1,0 +1,4 @@
+#!/bin/bash
+
+python properties.py > function/prop2arg.mcfunction
+python generate.py > loot_table/get_state.json
